@@ -1,0 +1,5 @@
+>>>CRUD de um Gerenciador de Tarefas<<<
+
+Desenvolvido com Banco de Dados local PostgreSQL
+Infos do banco no arquivo .env
+
